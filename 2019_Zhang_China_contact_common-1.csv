@@ -1,4 +1,4 @@
-part_id,cont_id,cnt_age_exact,cnt_age_est_min,cnt_age_est_max,cnt_gender,phys_contact,duration_multi,frequency_multi,??,??,??,??,cnt_leisure,??
+part_id,cont_id,cnt_age_exact,cnt_age_est_min,cnt_age_est_max,cnt_gender,phys_contact,duration_multi,frequency_multi,🏠,💻,📔,🚗,cnt_leisure,🎵
 1010101,101010101,60,NA,NA,F,1,5,1,1,0,0,0,NA,0
 1010101,101010102,34,NA,NA,M,1,4,2,0,0,0,0,NA,0
 1010101,101010103,64,NA,NA,M,0,5,1,1,0,0,0,NA,0
